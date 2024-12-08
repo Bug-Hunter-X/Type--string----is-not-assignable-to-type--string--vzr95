@@ -1,0 +1,1 @@
+This example demonstrates a common type error in TypeScript. The `greeter` function expects a string argument, but the `user` variable is an array of strings. This mismatch causes a type error. The solution shows how to properly type the function to handle both string and array of strings inputs.  This is a common mistake when dealing with arrays and functions in TypeScript.
